@@ -1,2 +1,2 @@
 # study
-For perfect love
+for machine learning(AI)
